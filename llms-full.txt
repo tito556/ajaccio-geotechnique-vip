@@ -1,0 +1,53 @@
+# Geotechnique — Ajaccio
+
+> Geotechnical engineering services in Ajaccio, France.
+
+## Services
+- [Amelioration Sols](https://ajaccio.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://ajaccio.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://ajaccio.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://ajaccio.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://ajaccio.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://ajaccio.geotechnique.vip/colonnes-ballastees/)
+- [Confidentialite](https://ajaccio.geotechnique.vip/confidentialite/)
+- [Densite Cone Sable](https://ajaccio.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://ajaccio.geotechnique.vip/essai-cpt/)
+- [Essais Proctor](https://ajaccio.geotechnique.vip/essais-proctor/)
+- [Excavations](https://ajaccio.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://ajaccio.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://ajaccio.geotechnique.vip/fondations/)
+- [Geophysique](https://ajaccio.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://ajaccio.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://ajaccio.geotechnique.vip/granulometrie/)
+- [Injections](https://ajaccio.geotechnique.vip/injections/)
+- [Investigation](https://ajaccio.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://ajaccio.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://ajaccio.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://ajaccio.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://ajaccio.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://ajaccio.geotechnique.vip/liquefaction/)
+- [Masw](https://ajaccio.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://ajaccio.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://ajaccio.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://ajaccio.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://ajaccio.geotechnique.vip/pieux/)
+- [Puits Inspection](https://ajaccio.geotechnique.vip/puits-inspection/)
+- [Radiers](https://ajaccio.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://ajaccio.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://ajaccio.geotechnique.vip/resistivite/)
+- [Semelles](https://ajaccio.geotechnique.vip/semelles/)
+- [Sismique](https://ajaccio.geotechnique.vip/sismique/)
+- [Sondages Spt](https://ajaccio.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://ajaccio.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://ajaccio.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://ajaccio.geotechnique.vip/talus/)
+- [Triaxial](https://ajaccio.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://ajaccio.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://ajaccio.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://ajaccio.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Ajaccio, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
